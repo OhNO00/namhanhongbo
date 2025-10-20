@@ -1,0 +1,78 @@
+*{
+    margin : 0px;
+    padding : 0px;
+    box-sizing: border-box;
+    color : block;
+    list-style-type: none;
+    text-decoration: none;
+    color: inherit;
+}
+/* 제목 */
+#title{
+    border: 2px solid black;
+    width: 100%;
+    height: 75px;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+/* 목록바 */
+#list{
+    border: 5px solid black;
+    /* background-color: navy; */
+    width: 100%;
+    height: 60px;
+
+}
+
+#list_main{
+    /* border: 1px solid blue; */
+    width: 33%;
+    height: 55px;
+
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+
+    float: left;
+}
+
+#list_free{
+    /* border: 1px solid blue; */
+    width: 33%;
+    height: 55px;
+
+    text-align: center;
+    font-size: 2em;
+    /* text-shadow: 2px 2px 0 white,
+        -2px 2px 0 white,
+        2px -2px 0 white,
+        -2px -2px 0 white; */
+    font-weight: bold;
+
+    float: left;
+}
+
+#list_project{
+    /* border: 1px solid blue; */
+    width: 33%;
+    height: 55px;
+
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+
+    float: left;
+}
+
+/* 동영상 아래 선 */
+#line{
+    border: none;
+    width: 100%;
+    height: 3px;
+    background-color: red;
+}
+
+#video{
+    margin-left:112px;
+}
