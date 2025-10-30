@@ -61,3 +61,10 @@ hr{
     padding-top: 4px;
     float: left;
 }
+
+img{
+    width: 60%;
+    height: auto;
+
+    margin-left: 20%;
+}
